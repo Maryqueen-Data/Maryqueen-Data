@@ -1,5 +1,30 @@
-## Hi there 👋
+# Hi, I'm Maryqueen 👋
 
+I'm a Data Analyst with a background in Executive Assistance and Business Operations. I enjoy turning raw data into meaningful insights and building dashboards that support better business decisions.
+
+## 🛠️ Tools
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Google sheets
+
+## 📂 My Projects
+- [Railway-sales-Performance](https://github.com/Maryqueen-Data/Railway-Sales-Performance)
+- 
+
+## 💼 Previous Experience
+
+Before transitioning into Data Analytics, I worked as an Executive Assistant, supporting business operations, documentation, reporting, research, and process improvement across multiple organizations. This experience strengthened my analytical thinking, attention to detail, and ability to solve business problems using data.
+
+## 🌱 Currently Learning
+
+- Python for Data Analysis
+- Advanced SQL
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/maryqueen-ayogu/)
 <!--
 **Maryqueen-Data/Maryqueen-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
