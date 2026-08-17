@@ -11,7 +11,8 @@ I'm a Data Analyst with a background in Executive Assistance and Business Operat
 
 ## 📂 My Projects
 - [Railway-sales-Performance](https://github.com/Maryqueen-Data/Railway-Sales-Performance)
-- 
+- [Child-Labour-Data](https://github.com/Maryqueen-Data/child-labour-analysis)
+- [Sales-CapstoneProject](https://github.com/Maryqueen-Data/sales-data-analysis)
 
 ## 💼 Previous Experience
 
